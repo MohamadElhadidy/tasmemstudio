@@ -135,8 +135,8 @@
                      <div class="row">
                         <div class="col-md-4 col-sm-6">
                            <div class="footer__link-7">
-                              <a href="/policy">Privacy Policy</a>
-                              <a href="/terms">Terms of Use</a>
+                              <a href="/policy-policy">Privacy Policy</a>
+                              <a href="/terms-of-use">Terms of Use</a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6">
