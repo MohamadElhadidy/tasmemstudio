@@ -156,11 +156,11 @@
             <div class="col-xxl-12 tp-load-item-count" data-show="4">
                <div class="portfolio__metro-item tp-load-item pt-40 pb-40 p-relative z-index-1 mb-30">
                   <div class="portfolio__metro-thumb"
-                     data-background="assets/img/portfolio/metro/portfolio-metro-1.jpg">
+                    >
                      <div class="portfolio__grid-video">
 
                         <video width="640" height="720" autoplay muted loop>
-                           <source src="/assets/videos/jimakes.mp4" type="video/mp4">
+                           <source src="/assets/videos/portfolio/jimakes.mp4" type="video/mp4">
                         </video>
 
 
@@ -175,14 +175,14 @@
                               </span>
                            </div>
                            <h3 class="portfolio__metro-title">
-                              <a href="/projects/{jimakes}">Jimakes</a>
+                              <a href="https://jimakes.tasmemstudio.com"  target="_blank">Jimakes</a>
                            </h3>
                            <p>Jimaikes is a clean and modern eCommerce website designed for selling watches, headphones,
                               and wireless earbuds. It focuses on fast performance, smooth navigation, and a seamless
                               shopping experience across all devices.</p>
 
                            <div class="portfolio__metro-btn">
-                              <a href="/projects/dress-up" class="tp-btn-border">
+                              <a href="https://jimakes.tasmemstudio.com"  target="_blank" class="tp-btn-border">
                                  Show Project
                                  <span>
                                     <svg width="26" height="9" viewBox="0 0 26 9" fill="none"
@@ -201,11 +201,13 @@
                </div>
                <div class="portfolio__metro-item tp-load-item pt-40 pb-40 p-relative z-index-1 mb-30">
                   <div class="portfolio__metro-thumb"
-                     data-background="assets/img/portfolio/metro/portfolio-metro-1.jpg">
+                    >
+
+                    
                      <div class="portfolio__grid-video">
 
                         <video width="640" height="720" autoplay muted loop>
-                           <source src="/assets/videos/dress-up.mp4" type="video/mp4">
+                           <source src="/assets/videos/portfolio/dress-up.mp4" type="video/mp4">
                         </video>
 
 
@@ -220,14 +222,14 @@
                               </span>
                            </div>
                            <h3 class="portfolio__metro-title">
-                              <a href="/projects/{dress-up}">Dress up</a>
+                              <a href="https://dressup.tasmemstudio.com" target="_blank">Dress up</a>
                            </h3>
                            <p>DressUp is a modern and responsive eCommerce website designed for selling women’s tops and
                               dresses, focused on clean visuals, easy navigation, and a smooth shopping experience
                               across all devices.</p>
 
                            <div class="portfolio__metro-btn">
-                              <a href="/projects/dress-up" class="tp-btn-border">
+                              <a href="https://dressup.tasmemstudio.com"  target="_blank" class="tp-btn-border">
                                  Show Project
                                  <span>
                                     <svg width="26" height="9" viewBox="0 0 26 9" fill="none"
@@ -268,7 +270,7 @@
 
 
    <!-- testimonial area start -->
-   <section class="testimonial__area p-relative z-index-1 pt-120 testimonial__gradient-bg fix pb-125">
+   <!-- <section class="testimonial__area p-relative z-index-1 pt-120 testimonial__gradient-bg fix pb-125">
       <div class="testimonial__shape">
          <img class="testimonial__shape-3" src="assets/img/testimonial/5/shape/testimonial-shape-1.png" alt="">
          <img class="testimonial__shape-4" src="assets/img/testimonial/5/shape/testimonial-shape-2.png" alt="">
@@ -384,7 +386,7 @@
                      <div class="testimonial__rating-logo mr-15">
                         <img src="assets/img/testimonial/5/testimonial-rating-logo.png" alt="">
                      </div>
-                     <!-- <div class="testimonial__rating-content">
+                     <div class="testimonial__rating-content">
                         <div class="testimonial__rating testimonial__rating-5">
                            <a href="#">
                               <i class="fa-solid fa-star"></i>
@@ -403,7 +405,7 @@
                            </a>
                         </div>
                         <p>4.8 Rating on Google</p>
-                     </div> -->
+                     </div>
                   </div>
                </div>
                <div class="col-sm-6">
@@ -412,11 +414,11 @@
             </div>
          </div>
       </div>
-   </section>
+   </section> -->
    <!-- testimonial area end -->
 
    <!-- brand area start -->
-   <section class="brand__area">
+   <!-- <section class="brand__area">
       <div class="container-fluid g-0">
          <div class="row gx-0">
             <div class="col-xxl-12">
@@ -495,33 +497,33 @@
             </div>
          </div>
       </div>
-   </section>
+   </section> -->
    <!-- brand area end -->
 
    <!-- cta area start -->
    <section class="cta__area cta__style-3 p-relative z-index-1 pt-115 pb-60 grey-bg-7">
       <div class="cta__shape">
-         <img class="cta__shape-17" src="assets/img/cta/7/cta-shape-1.png" alt="">
-         <img class="cta__shape-18" src="assets/img/cta/7/cta-shape-2.png" alt="">
-         <img class="cta__shape-19" src="assets/img/cta/7/cta-shape-3.png" alt="">
-         <img class="cta__shape-20" src="assets/img/cta/7/cta-shape-4.png" alt="">
+         <img class="cta__shape-17" src="assets/img/cta/cta-shape-1.png" alt="">
+         <img class="cta__shape-18" src="assets/img/cta/cta-shape-2.png" alt="">
+         <img class="cta__shape-19" src="assets/img/cta/cta-shape-3.png" alt="">
+         <img class="cta__shape-20" src="assets/img/cta/cta-shape-4.png" alt="">
       </div>
       <div class="container">
          <div class="row align-items-center">
             <div class="col-xxl-6 col-lg-6">
                <div class="cta__wrapper-7">
                   <div class="section__title-wrapper-7 mb-60">
-                     <span class="section__title-pre-7">Start Your Free Trial</span>
-                     <h3 class="section__title-7">Take your business to the next level.
+                     <span class="section__title-pre-7">Build Your High-Converting Online Store </span>
+                     <h3 class="section__title-7"> Get a professional store tailored to your brand and budget.
                      </h3>
                   </div>
                </div>
             </div>
             <div class="col-xxl-6 col-lg-6">
                <div class="cta__btn-wrapper-7 d-xl-flex align-items-center mb-40">
-                  <a href="../register.html" class="tp-cta-btn mr-20 mb-20"> Create a <br> Free Account <i
+                  <a href="/contact" class="tp-cta-btn mr-20 mb-20"> Start <br> Your Project <i
                         class="fa-light fa-arrow-up-right"></i></a>
-                  <a href="../help.html" class="tp-cta-btn-yellow mb-20">Talk to our <br> Support Team <i
+                  <a href="/portfolio" class="tp-cta-btn-yellow mb-20">See  <br> Our Work <i
                         class="fa-light fa-arrow-up-right"></i></a>
                </div>
             </div>

@@ -8,6 +8,8 @@ Route::get('/portfolio', function()  {
     return view('pages.portfolio');
 });
 
+Route::post('/contact', 'App\Http\Controllers\ContactController@send');
+
 
 
 Route::view('/policy-policy', 'pages.policy-policy');
