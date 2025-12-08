@@ -8,7 +8,7 @@
                <div class="row align-items-center">
                   <div class="col-xxl-2 col-xl-2 col-lg-3 col-md-6 col-6">
                      <div class="logo">
-                        <a href="home-main.html">
+                        <a href="/">
                            <img src="assets/img/logo/logo-black.svg" alt="">
                         </a>
                      </div>
@@ -118,7 +118,7 @@
       <div class="offcanvas__content">
          <div class="offcanvas__top mb-40 d-flex justify-content-between align-items-center">
             <div class="offcanvas__logo logo">
-               <a href="home-main.html">
+               <a href="/">
                   <img src="assets/img/logo/logo-black.svg" alt="logo">
                </a>
             </div>
